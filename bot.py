@@ -2,7 +2,6 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 from geopy.distance import geodesic
 
-# Введите сюда ваш токен API
 TOKEN = '7392948042:AAEd2iztW1fZijI4Y0UD83T7dRNiKvhFEoI'
 
 
